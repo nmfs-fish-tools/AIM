@@ -4,7 +4,7 @@
 
 **************
 
-https://nmfs-fish-tools.github.io/AIM/
+https://nmfs-fish-tools.github.io/AIM
 
 **************
 
